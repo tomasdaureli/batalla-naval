@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/tomasdaureli/Library/CloudStorage/Dropbox/UADE/Ing. Informatica/Programación III/TPO/LibreriaTPO1C-LunesVirtual-2023.jar"
+    ]
+}

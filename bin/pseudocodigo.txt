@@ -1,0 +1,8 @@
+ALGORITMO BACKTRACKING
+Entrada. tablero: Matriz(NxM), coordenadas: (X,Y), palabra: Secuencia<caracteres>, contador: entero
+Salida. solucion: Secuencia<caracteres>
+
+// Recorrer lista de izquierda a derecha hasta encontrar la primera_letra
+mientras primera_letra == null o contador < longitud(tablero)
+    
+fin mientras
